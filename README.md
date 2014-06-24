@@ -1,4 +1,4 @@
 JSLogger
 ========
 
-Simple JavaScript Keylogger
+Simple JavaScript and PHP Keylogger
